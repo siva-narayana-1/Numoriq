@@ -5,3 +5,5 @@ Numoriq is a mini-domain-specific language (DSL) inspired by Python.
 **GitHub:** [siva-narayana-1](https://github.com/siva-narayana-1)  
 
 Numoriq is developed and maintained by Siva Narayana.
+![Creator](https://img.shields.io/badge/Creator-Siva%20Narayana-blue)
+
